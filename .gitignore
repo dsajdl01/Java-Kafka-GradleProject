@@ -1,0 +1,8 @@
+*.gradle
+*.idea
+**/build
+**/out
+.idea/
+/kafka-basics/src/main/resources/property.setup.txt
+/.idea/
+/.gradle/
